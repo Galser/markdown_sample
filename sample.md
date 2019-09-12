@@ -49,6 +49,12 @@ And they can be nested also, iterating ove differnt formats :
 Pretty straight forward. we can embed images, for example, above metnioned European eel : 
 ![Image of European Eel](https://upload.wikimedia.org/wikipedia/commons/5/58/Anguilla_anguilla.jpg)
 
+# Headers and quotes
+Now the headers are self-explnatory, just look one line above. As fro the quotes - we use ">" character to make them.
+Once more about the same fish, quote from Wikipedia : 
+>The European eel (Anguilla anguilla)[2] is a species of eel, a snake-like, catadromous fish. They can reach a length of 1.5 m (4 ft 11 in) in exceptional cases, but are normally around 60–80 cm (2.0–2.6 ft), and rarely reach more than 1 m (3 ft 3 in).
+>
+>Eels have been important sources of food both as adults (including the famous jellied eels of East London) and as glass eels. Glass-eel fishing using basket traps has been of significant economic value in many river estuaries on the western seaboard of Europe.
 
 
 
