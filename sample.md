@@ -26,3 +26,25 @@ For header 1 you create underlin with "=" symbol, for level 2 with symblo "-" li
 
 > We also can make blockquoptes, like this one
 
+# Creating lists
+
+We can have numbered lists :
+1. One
+2. Two
+3. Many
+
+Or we can have bulleted lists, for example with most popular Dutch fish species : 
+* cod
+* makrel AKA `Scrumbria Scumbriade` -> note here back-ticks used to make inline code highlight
+* eurpoeean eel or officialy - `Anguilla anguilla`
+
+And they can be nested also, iterating ove differnt formats : 
+- We start with dash
+- And then , if we have soimethign to nest
+  * we putting two sapcves and star or dash
+  * and - profit, we have list in list
+
+
+
+
+
