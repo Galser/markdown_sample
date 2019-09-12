@@ -93,11 +93,12 @@ From extras we can have tasks (lists can be )
 
 Tables : 
 Top 3 consume fish in NL 
-Speciy | Percent 
--------|--------
-Cod    | 60%
-Mackrel| 20%
-Eel    | 20%
+
+Specie | Percentage
+------------ | -------------
+Cod | 60%
+Mackrel | 20%
+Eel | 20%
 
 And, sure - the world favorit emoji, for exampl of this cute  cat :cat2:
 
