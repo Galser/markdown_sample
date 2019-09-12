@@ -83,4 +83,24 @@ if x == 1:
     print("x is 1.")
 ```
 
+# Extras
 
+( mostly by GitHUb, not supported in all places) 
+From extras we can have tasks (lists can be ) 
+
+- [ ] - the task that is not done
+- [x] - or this , fancy, done one
+
+Tables : 
+Top 3 consume fish in NL 
+Speciy | Percent 
+-------|--------
+Cod    | 60%
+Mackrel| 20%
+Eel    | 20%
+
+And, sure - the world favorit emoji, for exampl of this cute  cat :cat2:
+
+Plus some other feature that updated from time to time - SHA refernces, issue refernces  - links to Pull Request, mentioneing of @Galse ( <- user name ) , ~~strikethrough~~ 
+
+_**That's all folks**_ ( bold + italic ) 
