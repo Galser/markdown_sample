@@ -44,6 +44,10 @@ And they can be nested also, iterating ove differnt formats :
   * we putting two sapcves and star or dash
   * and - profit, we have list in list
 
+# Insert images
+
+Pretty straight forward. we can embed images, for example, above metnioned European eel : 
+![Image of European Eel](https://upload.wikimedia.org/wikipedia/commons/5/58/Anguilla_anguilla.jpg)
 
 
 
