@@ -56,5 +56,31 @@ Once more about the same fish, quote from Wikipedia :
 >
 >Eels have been important sources of food both as adults (including the famous jellied eels of East London) and as glass eels. Glass-eel fishing using basket traps has been of significant economic value in many river estuaries on the western seaboard of Europe.
 
+# Code 
+
+If you want you code to look distinct in the text flow, just use back-ticks symbol, and either `wrap them inline` or go and span over several line, indeting them with four spaces : 
+
+    package main
+    import "fmt"
+    func main() {
+        fmt.Println("hello world")
+    }
+
+On GitHub we also cam have somethign that called fencing - with three backticks marking begin and end ofg the multipline block, especially  usefull with indent-based syntax languages like Python :
+
+```
+x = 1
+if x == 1:
+    # indented four spaces
+    print("x is 1.")
+```
+And with fencing you can even explicitly specify syntax highlight, just comparfe this part with one above, same code : 
+
+```python
+x = 1
+if x == 1:
+    # indented four spaces
+    print("x is 1.")
+```
 
 
