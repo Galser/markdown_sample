@@ -2,6 +2,6 @@
 Markdown sample repo
 
 # TODO
-- [ ] create markdown sampple with formats
 
 # DONE 
+- [X] create markdown sampple with formats , [sits in here](https://github.com/Galser/markdown_sample/blob/f-UpdateReadme/sample.md)
